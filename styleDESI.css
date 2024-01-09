@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(255, 255, 255);
+}
+
+#banner{
+    width: 100%;
+}
+
+header{
+    text-align: center;
+    font-size: 100%;
+    color:rgb(255, 255, 255);
+    background-image: url("Imagenes/visita.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 5%;
+}
+
+header h1{
+    font-size:30px;
+}
+
+header p{
+    font-style: italic;
+}
+
+p{
+    text-align: center;
+}
+
+#preg{
+    font-size: 20px;
+    color: #64d952;
+}
+
+.reco{
+    font-size: 25px;
+    padding: 30px;
+    background: linear-gradient(#4DB6C8, #A4E389);
+}
+
+.pie{
+    color:#64d952;
+    background: #111c34 ;
+    padding: 20px;
+}
+
+
+.items{
+    font-style: italic;
+    color: #64d952;
+}
+
+ul{
+    display:inline-block;
+    vertical-align: top;
+    margin-right: 20%;
+}
+
+.pie1{
+    width: 10%;
+}
+
